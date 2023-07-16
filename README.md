@@ -11,7 +11,7 @@ Interactive Dynamic Sales Dashboard Using PoweBI
 
 Hello Everyone,
 
-Sharing my 2st report utilizing Power BI To contribute success of a business by utilizing data analysis techniques, specifically focusing on time series analysis to provide valuable insights.📊
+Sharing my 2nd report utilizing Power BI To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis to provide valuable insights.📊
 
 # Project Description :-
 The objective can be broken down into the following detailed component.
