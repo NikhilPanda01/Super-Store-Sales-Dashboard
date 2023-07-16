@@ -1,5 +1,6 @@
 # SUPERSTORE SALES DASHBOARD
 Interactive Dynamic Sales Dashboard Using PoweBI
+
 ![SuperSales BI Dashboard_page-0001](https://github.com/NikhilPanda01/Super-Store-Sales-Dashboard/assets/114555468/bfeecb24-c161-46b1-bb95-ed0beaeb2071)
 ![SuperSales BI Dashboard_page-0002](https://github.com/NikhilPanda01/Super-Store-Sales-Dashboard/assets/114555468/ad32426d-95e0-4319-b0b9-fb9e86026b9a)
 
