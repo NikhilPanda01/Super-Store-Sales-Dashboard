@@ -9,7 +9,7 @@ Interactive Dynamic Sales Dashboard Using PoweBI
 - Created by :- NIKHIL PANDA
 - Tool used:- PowerBI
 
-Hello Everyone,
+Hello ,
 
 Sharing my 2nd report utilizing Power BI To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis to provide valuable insights.📊
 
